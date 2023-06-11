@@ -1,0 +1,7 @@
+⎯ Fully convolutional network
+⎯ SegNet
+⎯ U-Net
+⎯ VGG16 U-Net
+⎯ ResNet101 U-Net
+⎯ VGG16 UNet 3+
+⎯ ResNet101 UNet 3+
